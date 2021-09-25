@@ -5,7 +5,7 @@ permalink: /publication/2021-Amazon-vulnerability
 excerpt: ''
 date: 2021-09-01
 venue: 'Global Ecology and Biogeography'
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13388'
+paperurl: [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13388){: .btn--research}
 citation: 'De Faria, B., Staal, A., Martin, P., Panday, P.K., and Dantas, V. (2021). &quot;Climate change and fragmentation boost post-fire grass invasion of Amazonian forests.&quot; <i>Global Ecology and Biogeography</i>. .'
 ---
 
