@@ -9,15 +9,16 @@ I am committed to the pursuit and sharing of knowledge of the highest excellence
 ## Nichols College, Dudley, MA
 - ESCI 243: Physical World
 
-- ECON 309: World Economic Geography 
+- ECON 309: World Economic Geography
 
-- MBA 734: Statistical Modeling using R (
+- MBA 734: Statistical Modeling using R
 
 ## Clark University, Graduate School of Geography, Worcester, MA
-- ESS : Weather and Climate (with Laboratory) (Spring 2016)
-
-- ESS: Introduction to Arctic Systems Science (Fall 2015)
-
-- GEOG: Water, Climate and Society (Spring 2016)
-
-- GEOG: Introduction to Earth Systems Science (Fall 2015)
+- GEO 102 : Weather and Climate (with Laboratory) (Fall 2015)
+    - [Syllabus](/files/teaching/GEOG102.pdf)
+- GEOG 119: Introduction to Arctic Systems Science (Fall 2015)
+    - [Syllabus](/files/teaching/GEOG119.pdf)
+- GEOG 363: Water, Climate and Society (Spring 2016)
+    - [Syllabus](/files/teaching/GEOG363.pdf)
+- GEOG 104: Introduction to Earth Systems Science (Spring 2016)
+    - [Syllabus](/files/teaching/GEOG104.pdf)
