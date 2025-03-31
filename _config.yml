@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Prajjwal Panday"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Environmental Science"
-  location         : "Worcester, MA"
+  bio              : "Associate Professor of Environmental Science"
+  location         : "Dudley, MA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=sBZA7ocAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
